@@ -1,5 +1,6 @@
-MYSQL Queries for this Analytics Link:[SQL Queries_FOR_FINANCE_ANALYTICS.pdf](https://github.com/user-attachments/files/16739346/SQL.Queries_FOR_FINANCE_ANALYTICS.pdf),
-Finance Analytics file Link:[MYSQL_FINANCE_ANALYTICS.pdf](https://github.com/user-attachments/files/16739342/MYSQL_FINANCE_ANALYTICS.pdf)
+MYSQL Queries for this Analytics Link: [SQL Queries_FOR_FINANCE_ANALYTICS.pdf](https://github.com/user-attachments/files/16739346/SQL.Queries_FOR_FINANCE_ANALYTICS.pdf),
+
+Finance Analytics file Link: [MYSQL_FINANCE_ANALYTICS.pdf](https://github.com/user-attachments/files/16739342/MYSQL_FINANCE_ANALYTICS.pdf)
 # MYSQL_FINANCE_ANALYTICS
 Welcome to the AtliQ Hardwares Finance Analytics Project repository. This repository contains the code and SQL queries utilized for the Finance Domain section of the Data Analytics Bootcamp at Codebasics.
 
